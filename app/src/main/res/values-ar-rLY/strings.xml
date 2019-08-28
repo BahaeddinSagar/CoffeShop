@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مقهى</string>
+    <string name="Welcome">أهلا بكم في المقهى الخيالي</string>
+    <string name="CoffeIsLife">حيث القهوة هي الحياة</string>
+    <string name="coffee_picture">صورة قهوة</string>
+    <string name="comeVisit">تفضلو بزيارتنا في موقعنا الخيالي, نحن نعمل من التاسعة صباحا الى التاسعة مساءا</string>
+    <string name="weCantWait">نحن في شوق للقائكم</string>
+</resources>

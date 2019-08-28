@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoffeShop</string>
+    <string name="comeVisit">Come visit us at our Fictitious Place. We work from 9 AM to 9 PM</string>
+    <string name="weCantWait">We Can\'t Wait to See you!</string>
+    <string name="Welcome">Welcome to our Fictitious Coffee Shop.</string>
+    <string name="CoffeIsLife">Where Coffee is LIFE !</string>
+    <string name="coffee_picture">Coffee picture</string>
+</resources>
